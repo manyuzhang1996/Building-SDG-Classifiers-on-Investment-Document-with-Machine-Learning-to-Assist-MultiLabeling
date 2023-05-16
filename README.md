@@ -1,5 +1,5 @@
 
-# Building SDG Classifier: Monitor the Process of the SDGs using Machine Learning
+# Building SDG Classifier: Monitor the Progress of the SDGs using Machine Learning
 
 This project is mainly about using multiple sets of labels to create different cofident classifiers to classify SDG related document excerpts to 17 SDGs and save human effort in multi-labeling.
 
@@ -20,23 +20,23 @@ The paper builds ten multi-class classifiers with a combination of five algorith
 
 This paper successfully demonstrates that one text can belong to multiple SDGs. By providing a framework for multi-label classification, this work can potentially advance multi-labeling and policymaking on the SDGs.
 
-Keywords: Sustainable Development Goals, Machine Learning, Multi-class Classification, Clustering
-## 🛠 Skills
+**Keywords: Sustainable Development Goals, Machine Learning, Multi-class Classification, Clustering**
+## Skills
 Python, Supervised Machine Learning, Unsupervised Machine Learning
 
 ## Data Source
 
-[Dataset]
+**[Dataset]**
 
 The file contains 41,688 text excerpts and a total of 297,625 assigned labels (version 2023.04)
 
 https://zenodo.org/record/7816403#.ZExE-ezML0o
 
-[Source Data]
+**[Source Data]**
 
 The dataset consists of paragraph-length text excerpts derived from publicly available documents, including reports, policy documents and publication abstracts. A significant number of documents (more than 3,000) originate from UN-related sources such as SDG-Pathfinder and SDG Library. These sources often contain documents that already have SDG labels associated with them. Each text is comprised of 3 to 6 sentences and is about 90 words on average.
 
-[Column Description]
+**[Column Description]**
 
 doi - Digital Object Identifier of the original document
 
@@ -56,7 +56,9 @@ agreement = |labelspositive − labelsnegative| / (labelspositive + labelsnegati
 
 
 ## Methodology
-![App Screenshot](images/Framework.png)
+
+<img src = "images/Framework.png" width = "600">
+
 ## Run Locally
 
 Clone the project
@@ -64,3 +66,9 @@ Clone the project
 ```bash
   git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning.git
 ```
+
+## Elevator Pitch Video
+https://www.youtube.com/watch?v=5Hel45oB4j0
+
+## Contact
+Manyu Zhang (zhangmanyuzmy@gmail.com)
