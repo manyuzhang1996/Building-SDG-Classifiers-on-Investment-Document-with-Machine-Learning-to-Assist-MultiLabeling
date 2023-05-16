@@ -62,24 +62,5 @@ agreement = |labelspositive − labelsnegative| / (labelspositive + labelsnegati
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning/blob/e59215beb91d3e72fefcfb660afaea356033029f/DATA245%20SDG%20Classifier%20-%20Final.ipynb
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
