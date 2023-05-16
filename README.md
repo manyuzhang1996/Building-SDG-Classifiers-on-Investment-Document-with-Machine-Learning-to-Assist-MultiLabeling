@@ -56,11 +56,11 @@ agreement = |labelspositive − labelsnegative| / (labelspositive + labelsnegati
 
 
 ## Methodology
-![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/d/df/Sustainable_Development_Goals.png)
+![App Screenshot](images/Framework.png)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning/blob/e59215beb91d3e72fefcfb660afaea356033029f/DATA245%20SDG%20Classifier%20-%20Final.ipynb
+  git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning.git
 ```
