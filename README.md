@@ -20,7 +20,7 @@ The paper builds ten multi-class classifiers with a combination of five algorith
 
 This paper successfully demonstrates that one text can belong to multiple SDGs. By providing a framework for multi-label classification, this work can potentially advance multi-labeling and policymaking on the SDGs.
 
-**Keywords: Sustainable Development Goals, Machine Learning, Multi-class Classification, Clustering**
+**Keywords: Sustainable Development Goals, Natural Language Processing, Machine Learning, Multi-class Classification, Clustering**
 ## Skills
 Python, Supervised Machine Learning, Unsupervised Machine Learning
 
