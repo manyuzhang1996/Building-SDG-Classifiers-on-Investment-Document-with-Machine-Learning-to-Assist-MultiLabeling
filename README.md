@@ -22,7 +22,7 @@ This paper successfully demonstrates that one text can belong to multiple SDGs. 
 
 **Keywords: Sustainable Development Goals, Natural Language Processing, Machine Learning, Multi-class Classification, Clustering**
 ## Skills
-Python, Supervised Machine Learning, Unsupervised Machine Learning
+Python, Supervised Machine Learning, Unsupervised Machine Learning, Natural Language Processing
 
 ## Data Source
 
