@@ -64,7 +64,7 @@ agreement = |labelspositive − labelsnegative| / (labelspositive + labelsnegati
 Clone the project
 
 ```bash
-  git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning.git
+  git clone https://github.com/manyuzhang1996/Building-SDG-Classifiers-with-Machine-Learning-to-Assist-MultiLabeling.git
 ```
 
 ## Elevator Pitch Video
